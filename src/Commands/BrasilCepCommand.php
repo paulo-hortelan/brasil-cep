@@ -1,12 +1,12 @@
 <?php
 
-namespace VendorName\Skeleton\Commands;
+namespace Paulo Hortelan\BrasilCep\Commands;
 
 use Illuminate\Console\Command;
 
-class SkeletonCommand extends Command
+class BrasilCepCommand extends Command
 {
-    public $signature = 'skeleton';
+    public $signature = 'brasil-cep';
 
     public $description = 'My command';
 
